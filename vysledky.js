@@ -6,7 +6,7 @@ window.TURNAJ = {
      Príklad: "I": [13, 8]  znamená, že v zápase I. vyhral T12 (13:8) nad T1.
      Víťaz postúpi do ďalšieho zápasu sám. */
   vysledky: {
-    // "I": [13, 8],
+     "I": [13, 8],
     // "II": [9, 13],
   },
 
