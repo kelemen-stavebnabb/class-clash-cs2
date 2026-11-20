@@ -18,5 +18,9 @@ window.TURNAJ = {
   /* Zápasy, ktoré sa práve hrajú (zobrazia sa červeno). Príklad: ["V"] */
   prebieha: [
     // "V",
-  ]
+  ],
+
+  /* Livestream: vlož odkaz na YouTube video/prenos (napr. "https://www.youtube.com/watch?v=XXXXXXXXXXX")
+     alebo len ID videa. Ak necháš prázdne "", zobrazí sa text, že livestream ešte nebeží. */
+  livestream: ""
 };
