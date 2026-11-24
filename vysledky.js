@@ -20,6 +20,12 @@ window.TURNAJ = {
     // "V",
   ],
 
+  /* Mapy: "číslo zápasu": "názov mapy". Zobrazí sa na karte zápasu. Príklad: "I": "Mirage" */
+  mapy: {
+    // "I": "Mirage",
+    // "II": "Inferno",
+  },
+
   /* Livestream: vlož odkaz na YouTube video/prenos (napr. "https://www.youtube.com/watch?v=XXXXXXXXXXX")
      alebo len ID videa. Ak necháš prázdne "", zobrazí sa text, že livestream ešte nebeží. */
   livestream: ""
